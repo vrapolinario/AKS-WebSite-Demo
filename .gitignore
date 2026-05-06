@@ -1,0 +1,5 @@
+# Session Script file
+session-script.ps1
+
+# AKS Demo Kubernetes Deployment file
+.\AksDemoWebsite\aks-demo.yaml
